@@ -27,3 +27,38 @@
 1481125265 c:\cpptutorials\eurobiznes\eurobiznes\gra.h
 	"gracz.h"
 
+1481121096 source:c:\cpptutorials\eurobiznes\gracz.cpp
+	<iostream>
+	"gracz.h"
+
+1481123109 c:\cpptutorials\eurobiznes\gracz.h
+	<iostream>
+
+1481119636 source:c:\cpptutorials\eurobiznes\main.cpp
+	<iostream>
+	"gra.h"
+
+1481192281 c:\cpptutorials\eurobiznes\gra.h
+	"gracz.h"
+
+1481191842 source:c:\cpptutorials\eurobiznes\pola_gry.cpp
+	<iostream>
+	"gracz.h"
+	"pola_gry.h"
+
+1481190451 c:\cpptutorials\eurobiznes\pola_gry.h
+	<iostream>
+	"gracz.h"
+
+1481190386 source:c:\cpptutorials\eurobiznes\gra.cpp
+	<iostream>
+	"gra.h"
+
+1481191750 source:c:\cpptutorials\eurobiznes\miasto.cpp
+	<iostream>
+	"miasto.h"
+	"pola_gry.h"
+
+1481191773 c:\cpptutorials\eurobiznes\miasto.h
+	"pola_gry.h"
+

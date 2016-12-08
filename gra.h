@@ -10,6 +10,8 @@ public:
     Gra();
     ~Gra();
     void graj();
+    int rzutKostka(int min, int max);
+    void wgrajDanezPliku(const char *filePath);
 };
 
 #endif // GRA_H_INCLUDED

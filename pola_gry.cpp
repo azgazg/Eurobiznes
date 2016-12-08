@@ -9,6 +9,9 @@ Pole::Pole(string nazwaPola, typPola typ):nazwa(nazwaPola), typ(typ), wlasciciel
     cout << "Pole zostalo stworzone" << endl;
 }
 
+Pole::~Pole(){
+}
+
 void Pole::printWlasciciel(){
         cout << wlasciciel->getNazwa() << endl;
     }
