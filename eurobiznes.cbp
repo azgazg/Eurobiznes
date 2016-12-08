@@ -11,6 +11,7 @@
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
+				<Option parameters="C:\CPPtutorials\Eurobiznes\pola_planszy.txt" />
 				<Compiler>
 					<Add option="-g" />
 				</Compiler>
@@ -41,6 +42,7 @@
 		<Unit filename="miasto.h" />
 		<Unit filename="pola_gry.cpp" />
 		<Unit filename="pola_gry.h" />
+		<Unit filename="pola_planszy.txt" />
 		<Extensions>
 			<code_completion />
 			<envvars />

@@ -34,12 +34,13 @@
 1481123109 c:\cpptutorials\eurobiznes\gracz.h
 	<iostream>
 
-1481119636 source:c:\cpptutorials\eurobiznes\main.cpp
+1481193437 source:c:\cpptutorials\eurobiznes\main.cpp
 	<iostream>
 	"gra.h"
 
-1481192281 c:\cpptutorials\eurobiznes\gra.h
+1481203295 c:\cpptutorials\eurobiznes\gra.h
 	"gracz.h"
+	"miasto.h"
 
 1481191842 source:c:\cpptutorials\eurobiznes\pola_gry.cpp
 	<iostream>
@@ -50,9 +51,13 @@
 	<iostream>
 	"gracz.h"
 
-1481190386 source:c:\cpptutorials\eurobiznes\gra.cpp
+1481198606 source:c:\cpptutorials\eurobiznes\gra.cpp
 	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
 	"gra.h"
+	"miasto.h"
 
 1481191750 source:c:\cpptutorials\eurobiznes\miasto.cpp
 	<iostream>
