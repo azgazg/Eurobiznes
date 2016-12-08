@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1481121096 source:c:\cpptutorials\eurobiznes\eurobiznes\gracz.cpp
+	<iostream>
+	"gracz.h"
+
+1481119636 source:c:\cpptutorials\eurobiznes\eurobiznes\main.cpp
+	<iostream>
+	"gra.h"
+
+1481115380 source:c:\cpptutorials\eurobiznes\eurobiznes\miasto.cpp
+
+1481118353 source:c:\cpptutorials\eurobiznes\eurobiznes\pola_gry.cpp
+	<iostream>
+	"gracz.h"
+	"pola_gry.h"
+
+1481123109 c:\cpptutorials\eurobiznes\eurobiznes\gracz.h
+	<iostream>
+
+1481115221 c:\cpptutorials\eurobiznes\eurobiznes\pola_gry.h
+	<iostream>
+
+1481120267 source:c:\cpptutorials\eurobiznes\eurobiznes\gra.cpp
+	<iostream>
+	"gra.h"
+
+1481125265 c:\cpptutorials\eurobiznes\eurobiznes\gra.h
+	"gracz.h"
+
